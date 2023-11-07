@@ -1,0 +1,49 @@
+abstract class X{}
+interface J{}
+class B  {
+    int c;
+    def B(int c){
+        
+        this.c=90;
+    }
+    basic void def main (int a,X s){
+    int d ;
+    }
+    basic void def main (int a,float f){
+    int d ;
+    }
+}
+class A extends B {
+    int b;
+    #B b = new B(4);#
+    int a;
+    string s;
+    a = 90;
+    #b.c = a;#
+basic void def main (){
+   
+    int d ;
+    # super.c = d; #
+}
+    super.c = 90 ; 
+   # int b = 9;#
+    float sdfdsfds ;
+    final float x = 1.2 , v  ;
+
+
+
+}
+
+
+class main{
+   int res ;
+    public static basic void def main (){
+        
+        A a = new A(5);
+        B b = new A(4);
+       #X o = ne 
+    
+    
+    }
+}
+
